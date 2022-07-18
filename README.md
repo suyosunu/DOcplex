@@ -1,6 +1,6 @@
 # DOcplex Nedir? #
 İnternette __DOcplex nedir__ diye arattığınızda karşınıza hiç bir sonuç çıkmaz. Çünkü Docplex ile ilgili hiç Türkçe kaynak yoktur. <br>
-DOcplex, IBM CPLEX'in gücünü python dilinin esnekliği ile birleştirebildiğimiz bir kütüphanedir. Peki IBM CPLEX nedir? IBM CPLEX iş kararlarınızı optimize etmek, optimizasyon modellerini hızla geliştirip devreye almak ve iş sonuçlarını önemli ölçüde iyileştirebilen gerçek dünya uygulamaları yaratmak için karar optimizasyonu teknolojisini kullanır. CPLEX'in kendi arayüzünde OPL (Optimization Programming Language) kullanarak model geliştirebilirsiniz. <br><br>
+DOcplex, IBM CPLEX'in gücünü python dilinin esnekliği ile birleştirebildiğimiz bir kütüphanedir. Peki IBM CPLEX nedir? IBM CPLEX iş kararlarınızı optimize etmek, optimizasyon modellerini hızla geliştirip devreye almak ve iş sonuçlarını önemli ölçüde iyileştirebilen gerçek dünya uygulamaları yaratmak için karar optimizasyonu teknolojisini kullanır. CPLEX'in kendi arayüzünde OPL (Optimization Programming Language) kullanarak model geliştirebilirsiniz. <br>
 
 2012 yılında [Eray Çakıcı](https://github.com/ErayCakici/) ile tanıştığım IBM CPLEX serüveni 10 senedir devam ediyor. Dünyadaki sayılı Optimizasyonculardan olan Eray'ı burada anmadan geçmek olmazdı.  
 
