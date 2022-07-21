@@ -12,6 +12,7 @@ Eğitim X Notebook'tan oluşmaktadır. Basit modellerden başlayarak daha komple
 [DOcplex Chapter 00](https://github.com/suyosunu/DOcplex/blob/master/Chapter00/Docplex_C00.ipynb) : DOcplex'in ne olduğunun anlatıldığı ve eğitim içeriğinin anlatıldığı notebooktur. <br>
 [DOcplex Chapter 01](https://github.com/suyosunu/DOcplex/blob/master/Chapter01/Docplex_C01.ipynb) : DOcplex kütüphanelerinin yüklenmesi, basit bir matematiksel modelin DOcplex'de nasıl kurulduğunun detaylı anlatıldığı notebooktur. <br>
 [DOcplex Chapter 02](https://github.com/suyosunu/DOcplex/blob/master/Chapter01/Docplex_C02.ipynb) : CPLEX'in kendi dili olan OPL ile DOcplex arasındaki farkların bir örnek ile anlatıldığı notebooktur. <br>
+[DOcplex Chapter 03](https://github.com/suyosunu/DOcplex/blob/master/Chapter01/Docplex_C03.ipynb) : Doğrusal Programlamaya giriş eğitimidir. Bir örnek ile doğrusal programlama, grafik çözümü, DOcplex uygulaması, infeasiblity, hard ve soft constriantler anlatılmıştır. <br>
 
 ### Faydalanılan Kaynaklar ###
 CPLEX ücretli (yüksek ücretli) bir çözücü olduğu için kurumsal ve akademik alan dışında olmadığı için, internette kaynak sıkıntısı bulunmaktadır. Yine de IBM'in kendi oluşturduğu dokumanlar ve kaynaklar hem çok değerli hem de yeterlidir. 
