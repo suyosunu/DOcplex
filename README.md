@@ -10,12 +10,13 @@ Bu eğitim DOcplex'in kullanımının yaygınlaştırılması için hazırlanmı
 Eğitim X Notebook'tan oluşmaktadır. Basit modellerden başlayarak daha kompleks modellere doğru ilerleyeceğiz. Aşağıda her bir dersin içeriği ile ilgili notebookların açıklamaları bulunmaktadır. 
 
 [DOcplex Chapter 00](https://github.com/suyosunu/DOcplex/blob/master/Chapter00/Docplex_C00.ipynb) : DOcplex'in ve eğitim içeriğinin anlatıldığı notebooktur. <br>
-[DOcplex Chapter 01](https://github.com/suyosunu/DOcplex/blob/master/Chapter01/Docplex_C01.ipynb) : DOcplex kütüphanelerinin yüklenmesi, basit bir matematiksel modelin DOcplex'de nasıl kurulduğunun detaylı anlatıldığı notebooktur. <br>
-[DOcplex Chapter 02](https://github.com/suyosunu/DOcplex/blob/master/Chapter02/Docplex_C02.ipynb) : CPLEX'in kendi dili olan OPL ile DOcplex arasındaki farkların bir örnek ile anlatıldığı notebooktur. <br>
+[DOcplex Chapter 01](https://github.com/suyosunu/DOcplex/blob/master/Chapter01/Docplex_C01.ipynb) : Optimizasyon, yöneylem araştırması ve matematiksel modelin ne olduğunun örneklerle anlatıldığı eğitimdir. Sektördeki gerçek hayat örneklerini, matematiksel modelin tanımını ve daha bir çok bilgiyi bu eğitimde bulabilirsiniz. <br>
+[DOcplex Chapter 02](https://github.com/suyosunu/DOcplex/blob/master/Chapter02/Docplex_C02.ipynb) : DOcplex kütüphanelerinin yüklenmesi, basit bir matematiksel modelin DOcplex'de nasıl kurulduğunun detaylı anlatıldığı notebooktur. <br>
 [DOcplex Chapter 03](https://github.com/suyosunu/DOcplex/blob/master/Chapter03/Docplex_C03.ipynb) : Doğrusal Programlamaya giriş eğitimidir. Bir örnek ile doğrusal programlama, grafik çözümü, DOcplex uygulaması, infeasiblity, hard ve soft constriantler anlatılmıştır. <br>
 [DOcplex Chapter 04](https://github.com/suyosunu/DOcplex/blob/master/Chapter04/Docplex_C04.ipynb) : IBM'in popüler örneklerinden biri olan Makarna Üretim PRoblemi'nin DOcplex ile çözümü anlatılmıştır. Karar değişkenlerinin ve kısıtların arraylerden kolaylıkla oluşturulmasını öğrenmek için güzel bir örnektir.<br>
 [DOcplex Chapter 05](https://github.com/suyosunu/DOcplex/blob/master/Chapter05/Docplex_C05.ipynb) : Yine IBM'in popüler örneklerinden biri olan Süpermarket PRoblemi'nin DOcplex ile çözümü anlatılmıştır. Farklı kümelerdeki veriler kullanılarak kısıt yazma üzerine güzel bir örnektir.<br>
 [DOcplex Chapter 06](https://github.com/suyosunu/DOcplex/blob/master/Chapter06/Docplex_C06.ipynb) : Bu dersimizde, Oil adlı IBM problemini DOcplex kullanarak Doğrusal Programala ile çözeceğiz. Pandas ve numpy kütüphanelerinin kullanımını, amaç fonksiyonu ve KPI'ların grafik gösterimlerini bu eğitimde bulabilirsiniz.<br>
+[DOcplex Chapter XX](https://github.com/suyosunu/DOcplex/blob/master/Chapter06/Docplex_C06.ipynb) : CPLEX'in kendi dili olan OPL ile DOcplex arasındaki farkların bir örnek ile anlatıldığı notebooktur. <br>
 
 ### Faydalanılan Kaynaklar ###
 CPLEX ücretli (yüksek ücretli) bir çözücü olduğu için kurumsal ve akademik alan dışında olmadığı için, internette kaynak sıkıntısı bulunmaktadır. Yine de IBM'in kendi oluşturduğu dokumanlar ve kaynaklar hem çok değerli hem de yeterlidir. 
