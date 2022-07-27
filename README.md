@@ -25,6 +25,13 @@ Eğitim X Notebook'tan oluşmaktadır. Basit modellerden başlayarak daha komple
 CPLEX ücretli (yüksek ücretli) bir çözücü olduğu için kurumsal ve akademik alan dışında olmadığı için, internette kaynak sıkıntısı bulunmaktadır. Yine de IBM'in kendi oluşturduğu dokumanlar ve kaynaklar hem çok değerli hem de yeterlidir. 
 
 Bu dokumanlar hazırlanırken aşağıdaki kaynaklardan faydalanılmıştır. <br> <br>
+### Faydalanılan Kaynaklar ###
+CPLEX ücretli (yüksek ücretli) bir çözücü olduğu için kurumsal ve akademik alan dışında olmadığı için, internette kaynak sıkıntısı bulunmaktadır. Yine de IBM'in kendi oluşturduğu dokumanlar ve kaynaklar hem çok değerli hem de yeterlidir. 
+
+Bu dokumanlar hazırlanırken aşağıdaki kaynaklardan faydalanılmıştır. <br> <br>
+__Linkedin__<br>
+https://www.linkedin.com/pulse/making-optimization-simple-python-alex-fleischer/
+
 __Medium__ <br>
 https://medium.com/@AlainChabrier/decision-optimization-education-a50cada93856 <br>
 https://medium.com/@AlainChabrier/opl-vs-python-docplex-2d7b28814740 <br>
@@ -33,9 +40,12 @@ __Github__ <br>
 https://github.com/IBMDecisionOptimization/docplex-examples <br>
 https://github.com/IBMDecisionOptimization/docplex-doc <br>
 https://github.com/IBMDecisionOptimization/docplex-mssql-sample <br>
+https://github.com/AlexFleischerParis/howtowithdocplex<br>
+https://github.com/AlexFleischerParis/zoodocplex<br>
 
 __IBM__ <br>
 http://ibmdecisionoptimization.github.io/docplex-doc/ <br>
+
 
 ### Komunite ###
 Buna ek olarak, IBM'in tartışma platformu ve komunitesi takıldığınız yerler için çok faydalı olacaktır. Geliştiricilerin cevap verdiği bu platforma da kayıt olmanızı tavsiye ederim. <br>
